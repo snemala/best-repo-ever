@@ -2,3 +2,5 @@
 
 test GIT
 
+test merge add
+
