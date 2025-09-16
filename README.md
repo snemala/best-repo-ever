@@ -1,6 +1,5 @@
 # best-repo-ever
 
 test GIT
-
-tst 
+test merge add
 
